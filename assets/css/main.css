@@ -1592,3 +1592,19 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+/* Other */
+
+.eventImage {   
+    zoom: 50%;
+    -webkit-transform: scale(0.9);
+    float: left;
+}
+
+.pagebreak { 
+    page-break-before: always; 
+}
+
+.eventText {
+    height: 150px;
+}
